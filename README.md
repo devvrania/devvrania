@@ -10,6 +10,9 @@
 
 Building thoughtful digital experiences, scalable backend systems, and AI-powered applications.
 
+<a href="https://devvrania.com">
+  <img src="https://img.shields.io/badge/Portfolio-devvrania.com-E11D48?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 <a href="https://www.linkedin.com/in/devvrania">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -23,6 +26,16 @@ Building thoughtful digital experiences, scalable backend systems, and AI-powere
 I'm a software engineer who enjoys turning ideas into practical, well-crafted software. I work across the stack, from designing intuitive interfaces to building reliable backend systems and integrating AI into real-world applications.
 
 I care about clean architecture, maintainable code, performance, and the little details that make software better.
+
+---
+
+## Personal projects
+
+**[Book Intelligence](https://github.com/devvrania/book-intelligence)** · [books.devvrania.com](https://books.devvrania.com)<br>
+An open, AI-powered library. Upload a PDF and ask it anything: every answer comes only from the book, with citations to the exact chapter and page. Hybrid RAG with pgvector and Postgres full-text search, a background ingestion pipeline, and local Ollama or Gemini models.
+
+**[Kairo](https://github.com/devvrania/kairo)** · [kairo.devvrania.com](https://kairo.devvrania.com)<br>
+My 3D coding companion: an animated VRM character at a desk in a cozy room, built with three.js and three-vrm. Kairo follows your cursor, reacts to clicks and keeps you company while you code.
 
 ---
 
@@ -42,6 +55,7 @@ I care about clean architecture, maintainable code, performance, and the little 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 **Backend & APIs**
 
@@ -53,6 +67,7 @@ I care about clean architecture, maintainable code, performance, and the little 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E8423F?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 **Databases**
 
@@ -60,11 +75,13 @@ I care about clean architecture, maintainable code, performance, and the little 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI & LLMs**
 
 ![OpenAI](https://img.shields.io/badge/LLM_Integrations-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Firebase Genkit](https://img.shields.io/badge/Firebase_Genkit-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 
@@ -75,6 +92,7 @@ I care about clean architecture, maintainable code, performance, and the little 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Integrations & Services**
@@ -100,6 +118,7 @@ I care about clean architecture, maintainable code, performance, and the little 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
@@ -113,7 +132,7 @@ I care about clean architecture, maintainable code, performance, and the little 
 
 **A little corner of code, curiosity & creativity.**
 
-Meet <a href="https://github.com/devvrania/kairo"><b>Kairo</b></a>, my 3D coding companion.
+Meet <a href="https://kairo.devvrania.com"><b>Kairo</b></a>, my 3D coding companion.
 
 *Born to conquer, wired to create.* ✦
 
