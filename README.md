@@ -23,7 +23,7 @@ Building thoughtful digital experiences, scalable backend systems, and AI-powere
 
 ## About me
 
-I'm a software engineer who enjoys turning ideas into practical, well-crafted software. I work across the stack, from designing intuitive interfaces to building reliable backend systems and integrating AI into real-world applications.
+I'm a software engineer with four years of production experience, and I enjoy turning ideas into practical, well-crafted software. I work across the stack, from designing intuitive interfaces to building reliable backend systems and integrating AI into real-world applications.
 
 I care about clean architecture, maintainable code, performance, and the little details that make software better.
 
@@ -33,6 +33,9 @@ I care about clean architecture, maintainable code, performance, and the little 
 
 **[Book Intelligence](https://github.com/devvrania/book-intelligence)** · [books.devvrania.com](https://books.devvrania.com)<br>
 An open, AI-powered library. Upload a PDF and ask it anything: every answer comes only from the book, with citations to the exact chapter and page. Hybrid RAG with pgvector and Postgres full-text search, a background ingestion pipeline, and local Ollama or Gemini models.
+
+**[Spendly](https://github.com/devvrania/spendly)** · [spendly.devvrania.com](https://spendly.devvrania.com)<br>
+A calm personal finance tracker for income and expenses in PKR across wallets and categories, built to go deep on database design and SQL. Composite foreign keys let the database itself guarantee every transaction uses the owner's own wallet and a matching category, with dashboard analytics in raw SQL and a one-click live demo. Next.js, NestJS, Prisma and PostgreSQL.
 
 **[Kairo](https://github.com/devvrania/kairo)** · [kairo.devvrania.com](https://kairo.devvrania.com)<br>
 My 3D coding companion: an animated VRM character at a desk in a cozy room, built with three.js and three-vrm. Kairo follows your cursor, reacts to clicks and keeps you company while you code.
@@ -56,6 +59,7 @@ My 3D coding companion: an animated VRM character at a desk in a cozy room, buil
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 **Backend & APIs**
 
@@ -65,6 +69,7 @@ My 3D coding companion: an animated VRM character at a desk in a cozy room, buil
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E8423F?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
@@ -75,6 +80,7 @@ My 3D coding companion: an animated VRM character at a desk in a cozy room, buil
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI & LLMs**
@@ -118,6 +124,7 @@ My 3D coding companion: an animated VRM character at a desk in a cozy room, buil
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
